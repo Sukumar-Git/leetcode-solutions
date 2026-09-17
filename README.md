@@ -16,6 +16,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0819-most-common-word](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0819-most-common-word](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +51,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0819-most-common-word](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0819-most-common-word](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 <!---LeetCode Topics End-->
