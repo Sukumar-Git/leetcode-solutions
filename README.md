@@ -17,6 +17,7 @@
 | [0088-merge-sorted-array](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0819-most-common-word](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1051-height-checker](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
@@ -27,10 +28,12 @@
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1051-height-checker](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 ## String
 | Problem Name | Difficulty |
