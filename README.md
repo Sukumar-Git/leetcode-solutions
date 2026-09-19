@@ -14,6 +14,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0819-most-common-word](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
@@ -32,6 +33,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1051-height-checker](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
@@ -72,4 +74,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
