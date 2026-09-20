@@ -4,10 +4,12 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0441-arranging-coins](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -78,4 +80,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
