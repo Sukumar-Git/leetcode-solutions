@@ -5,11 +5,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0441-arranging-coins](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -18,6 +20,7 @@
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0268-missing-number](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0819-most-common-word](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -37,6 +40,7 @@
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0268-missing-number](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1051-height-checker](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 ## String
@@ -63,6 +67,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0819-most-common-word](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -84,4 +89,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
