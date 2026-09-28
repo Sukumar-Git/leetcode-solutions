@@ -30,6 +30,7 @@
 | [0819-most-common-word](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1051-height-checker](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,4 +138,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->
