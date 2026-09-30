@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0013-roman-to-integer](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0441-arranging-coins](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
@@ -54,6 +55,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0763-partition-labels](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0763-partition-labels/) | Medium |
@@ -79,6 +81,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0763-partition-labels](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0763-partition-labels/) | Medium |
