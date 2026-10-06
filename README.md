@@ -25,6 +25,7 @@
 | [0056-merge-intervals](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0228-summary-ranges](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
