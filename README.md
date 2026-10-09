@@ -23,6 +23,7 @@
 | [0001-two-sum](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0056-merge-intervals](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -154,6 +155,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -182,4 +184,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
