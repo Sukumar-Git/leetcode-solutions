@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0067-add-binary](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0441-arranging-coins](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
@@ -65,6 +66,7 @@
 | [0014-longest-common-prefix](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0067-add-binary](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0763-partition-labels](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0763-partition-labels/) | Medium |
 | [0819-most-common-word](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -120,6 +122,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
@@ -156,6 +159,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0067-add-binary](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
