@@ -23,6 +23,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0031-next-permutation](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0056-merge-intervals](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -47,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0763-partition-labels](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0763-partition-labels/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
