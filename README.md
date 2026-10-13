@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0441-arranging-coins](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 ## Binary Search
@@ -194,4 +195,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
