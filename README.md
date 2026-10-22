@@ -50,6 +50,7 @@
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
+| [0086-partition-list](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0763-partition-labels](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0763-partition-labels/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -149,6 +150,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0086-partition-list](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
