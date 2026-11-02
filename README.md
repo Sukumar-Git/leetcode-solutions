@@ -37,6 +37,7 @@
 | [0525-contiguous-array](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0819-most-common-word](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1051-height-checker](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
@@ -197,6 +198,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/Sukumar-Git/leetcode-solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
